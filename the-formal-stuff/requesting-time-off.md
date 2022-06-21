@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Requesting Time Off
+# Where to Begin?
 
 To request time off, just fill in our simple form and we'll get it approved!
 
@@ -13,3 +13,11 @@ To request time off, just fill in our simple form and we'll get it approved!
 {% endhint %}
 
 {% embed url="https://2w3pnm4iy73.typeform.com/to/P228Ngvj" %}
+
+### Pick Your Learning Path
+
+Different developers have different learning styles. Feel free to pick a learning path that suits your preference - although we do recommend going over all content if possible!
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
