@@ -7,12 +7,12 @@ coverY: 0
 # Meet the Team!
 
 {% hint style="info" %}
-**Get to know us:** We are so excited to bring information to the community, and hope it provides value to those who use it. Welcome to the ARK!&#x20;
+**Good to know:** an employee directory can be a great way to help new folks get familiar with everyone they're going to be working with.
 {% endhint %}
 
-## Dave Patterson
+## Esme DeWalt
 
-👋 CEO — 💌 digitalarkpool@gmail.com — 🇺🇸 Texas (CST-5)
+👋 CEO — 💌 esme@company.com — 🇺🇸 San Francisco (GMT-7)
 
 ![](https://images.unsplash.com/photo-1571442463800-1337d7af9d2f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&ixlib=rb-1.2.1\&auto=format\&fit=crop\&w=2973\&q=80)
 
@@ -22,9 +22,9 @@ coverY: 0
 **Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
 {% endhint %}
 
-## Curtis Myers
+## Rima Paterson
 
-👋 CIO — 💌 blockchain.relativity@protonmail.com — 🇺🇸 California (PST-7)
+👋 CTO — 💌 rima@company.com — 🇳🇱 Amsterdam (GMT+1)
 
 ![](https://images.unsplash.com/photo-1502764613149-7f1d229e230f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&ixlib=rb-1.2.1\&auto=format\&fit=crop\&w=2972\&q=80)
 

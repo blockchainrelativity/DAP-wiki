@@ -12,6 +12,11 @@
 * [Where to Begin?](the-formal-stuff/requesting-time-off.md)
 * [How to use this Wiki](the-formal-stuff/filing-expenses.md)
 
+## Workshops
+
+* [Introduction to Cardano](workshops/introduction-to-cardano.md)
+* [Developer Environment Setup](workshops/developer-environment-setup.md)
+
 ## 🎓 Online Courses
 
 * [Page 1](online-courses/page-1.md)
